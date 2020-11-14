@@ -2,6 +2,6 @@ main_demo
 b
 main_commit2
 b
-test_branch_1_change
+test_branch_2
 gh
 gghg
